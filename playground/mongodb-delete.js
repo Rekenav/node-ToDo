@@ -35,5 +35,3 @@ MongoClient.connect('mongodb://localhost:27017/TodoApp', (err, db) => {
 
     // db.close();
 });
-
-// ObjectId("597200964de82181f2449140")
