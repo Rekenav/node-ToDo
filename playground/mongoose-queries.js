@@ -25,7 +25,7 @@ Users.findById(id).then((user) => {
 //     _id: id
 // }).then((todos) => {
 //     console.log('Todos', todos);
-// });
+// }); 
 
 // Todo.findOne({
 //     _id: id
